@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @CHDers
-- 👀 I’m interested in data science and machine learning...
-- 🌱 I’m currently learning traffic big data...
-- 💞️ I’m looking to collaborate on ...
-- 📫 My email is chder1996@gmail.com ...
-- 🚀
+
 
 <!---
 CHDers/CHDers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -31,7 +26,10 @@ You can click the Preview link to take a look at your changes.
 
 - 📫 How to reach me **chder1996@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+- 💞️ I’m looking to collaborate on ...
+
+- 🚀
+
 <p align="left">
 </p>
 
