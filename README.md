@@ -13,6 +13,9 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="center">A struggling developer from China</h3>
 
+  
+![:Augenestern-creator](https://count.getloli.com/get/@:CHDers?theme=gelbooru-h)
+
 ![](https://img.shields.io/badge/Writing-Typora-blue)  ![](https://img.shields.io/badge/Code-Pycharm-brightgreen)  ![](https://img.shields.io/badge/Code-Idea-orange)  ![](https://img.shields.io/badge/Code-VS%20code-red)
 
 
@@ -25,9 +28,6 @@ You can click the Preview link to take a look at your changes.
 - 💞️ I’m looking to collaborate on ...
 
 - 🚀
-
-![:Augenestern-creator](https://count.getloli.com/get/@:CHDers?theme=gelbooru-h)
-
 
 <p align="left">
 </p>
