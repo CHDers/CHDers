@@ -7,10 +7,14 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<h1 align="center">Hi 👋, I'm Yanjun</h1>
+<h1 align="center">Hi 👋, I'm Yanjun
+<div align="right"> <img src="https://visitor-badge.glitch.me/badge?page_id=CHDersr&left_color=green&right_color=red"> </div>
+</h1>
+
 <h3 align="center">A struggling developer from China</h3>
 
 ![](https://img.shields.io/badge/Writing-Typora-blue)  ![](https://img.shields.io/badge/Code-Pycharm-brightgreen)  ![](https://img.shields.io/badge/Code-Idea-orange)  ![](https://img.shields.io/badge/Code-VS%20code-red)
+
 
 - 🔭 I’m currently working on **data science and machine learning**
 
@@ -65,5 +69,6 @@ You can click the Preview link to take a look at your changes.
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=CHDers&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
+<div align="right"> <img src="https://visitor-badge.glitch.me/badge?page_id=CHDersr&left_color=green&right_color=red"> </div>
 
 
