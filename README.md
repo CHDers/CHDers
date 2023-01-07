@@ -78,3 +78,6 @@ You can click the Preview link to take a look at your changes.
 <a href="https://moon-svg.minung.dev">
   <img src="https://moon-svg.minung.dev/moon.svg?date=2022-03-24&theme=basic" alt="moon.svg" />
 </a>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CHDers)](https://github.com/anuraghazra/github-readme-stats)
