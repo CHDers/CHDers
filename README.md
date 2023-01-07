@@ -62,4 +62,6 @@ You can click the Preview link to take a look at your changes.
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=CHDers&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
+![:Augenestern-creator](https://count.getloli.com/get/@:Driver-behaviour?theme=gelbooru-h)
+
 
