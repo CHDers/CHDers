@@ -136,8 +136,8 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=CHDers&repo=Data-Vsualization-50-Figure&theme=dark&bg_color=0d1117&hide_border=true" /></a>
 <a href="https://github.com/CHDers/SpringBoot_Study">
  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=CHDers&repo=SpringBoot_Study&theme=dark&bg_color=0d1117&hide_border=true" /></a>
-<a href="https://github.com/CHDers/TrajectoryPrediction">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=CHDers&repo=TrajectoryPrediction=dark&bg_color=0d1117&hide_border=true" /></a>
+<a href="https://github.com/CHDers/PyTorch">
+ <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=CHDers&repo=PyTorch&theme=dark&bg_color=0d1117&hide_border=true" /></a>
 </div>
 
 
