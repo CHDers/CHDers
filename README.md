@@ -130,8 +130,8 @@ You can click the Preview link to take a look at your changes.
 
 <!-- 比较好的开源项目卡片 -->
 <div align="center">
-<a href="https://github.com/CHDers/CHDers">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=CHDers&repo=CHDers&theme=dark&bg_color=0d1117&hide_border=true" /></a>
+<a href="https://github.com/CHDers/DeepLearning-PyTorch">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=CHDers&repo=DeepLearning-PyTorch&theme=dark&bg_color=0d1117&hide_border=true" /></a>
 <a href="https://github.com/CHDers/Data-Vsualization-50-Figure">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=CHDers&repo=Data-Vsualization-50-Figure&theme=dark&bg_color=0d1117&hide_border=true" /></a>
 </div>
