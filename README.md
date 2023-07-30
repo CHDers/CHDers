@@ -237,3 +237,11 @@ If you want to contribute to any of my repositories, feel free to submit PRs, is
 ![](assets/Bottom_down.svg)
 
 </p>
+
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CHDers/CHDers/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CHDers/CHDers/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CHDers/CHDers/output/github-contribution-grid-snake.svg">
+</picture>
