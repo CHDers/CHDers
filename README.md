@@ -179,7 +179,7 @@ graph TD;
  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=CHDers&repo=PyTorch&theme=dark&bg_color=0d1117&hide_border=true" /></a>
 </div>
 
-# Star History
+# :fish: Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=CHDers/CHDers&type=Date)](https://star-history.com/#CHDers/CHDers&Date)
 
@@ -192,6 +192,7 @@ graph TD;
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=CHDers" width="auto"></img>
 
 
+# :whale2: My Home
 <!-- Belarus - My Home-->
   
  ```geojson
