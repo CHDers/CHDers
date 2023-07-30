@@ -66,6 +66,11 @@ graph TD;
     machine-learning-->Deployment;
    ```
 
+<p align="center"> 
+<img src="./src/credly0.png" alt="ibm" width="100%">
+<img src="./src/credly1.png" alt="ibm" width="100%">
+<img src="./src/credly2.png" alt="ibm" width="100%">
+</p>
 
 💪 正在学习: 
 
@@ -174,7 +179,7 @@ graph TD;
  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=CHDers&repo=PyTorch&theme=dark&bg_color=0d1117&hide_border=true" /></a>
 </div>
 
-## Star History
+# Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=CHDers/CHDers&type=Date)](https://star-history.com/#CHDers/CHDers&Date)
 
@@ -183,44 +188,8 @@ graph TD;
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/contribution-snake/github-contribution-grid-snake.svg" /></div>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!--  2d history skills -->
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=CHDers" width="auto"></img>
-
-
-
-
 
 
 <!-- Belarus - My Home-->
@@ -239,7 +208,7 @@ graph TD;
        "type": "Polygon",
        "coordinates": [
          [
-             [112.3, 37.55],
+             [100.3, 21.55],
              [116.4, 39.56]
          ]
        ]
@@ -249,18 +218,6 @@ graph TD;
 }
 
 ```
-
-<p align="center"> 
-
-<img src="./src/credly0.png" alt="ibm" width="100%">
-<img src="./src/credly1.png" alt="ibm" width="100%">
-<img src="./src/credly2.png" alt="ibm" width="100%">
-</p>
-
-
-
-
-
 
 
 </p>
@@ -277,8 +234,5 @@ If you want to contribute to any of my repositories, feel free to submit PRs, is
 ---
 
 ![](assets/Bottom_down.svg)
-
-[MIT](LICENSE)
-
 
 </p>
