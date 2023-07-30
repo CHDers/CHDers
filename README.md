@@ -154,13 +154,13 @@ graph TD;
 <br>
 <!-- 统计卡片start -->
 <div align="center">
-  <img height="127px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=CHDers&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-  <img height="127px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CHDers&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+  <img height="135px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=CHDers&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+  <img height="135px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CHDers&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div>
 <!-- 统计卡片end -->
 <br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=CHDers&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CHDers&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CHDers)](https://github.com/anuraghazra/github-readme-stats) -->
 
