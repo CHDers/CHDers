@@ -67,12 +67,6 @@ graph TD;
     machine-learning-->Deployment;
    ```
 
-<p align="center"> 
-<img src="./src/credly0.png" alt="ibm" width="100%">
-<img src="./src/credly1.png" alt="ibm" width="100%">
-<img src="./src/credly2.png" alt="ibm" width="100%">
-</p>
-
 💪 正在学习: 
 
 &emsp;&emsp;
@@ -125,41 +119,12 @@ graph TD;
   <img alt="css" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100" title="css">
 </div>
 
-<!-- just img -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311924844.png" /></div>
-
-
 
 # 🚀 Actions
-
-<!-- just img -->
-<div align="center"><img width="50%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311913581.gif"/></div>
-
-<div align="center"> <img src="https://metrics.lecoq.io/CHDers?template=classic&config.timezone=Asia%2FShanghai"> </div>
 
 <!-- Dynamic Quotes -->
 <div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"></div>
 
-<br>
-<!-- Github奖杯🏆start -->
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=CHDers&theme=onedark&row=1&column=6&no-frame=true&no-bg=true"> </div>
-<!-- Github奖杯🏆end -->
-<br>
-<!-- Github连续打卡start -->
-<div align="center">
-  <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300310676.png" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CHDers&theme=dark&hide_border=true" />
-  <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300312623.png" />
-</div>
-<!-- Github连续打卡end -->
-<br>
-<!-- 统计卡片start -->
-<div align="center">
-  <img height="135px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=CHDers&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-  <img height="135px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CHDers&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-</div>
-<!-- 统计卡片end -->
-<br>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CHDers&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
