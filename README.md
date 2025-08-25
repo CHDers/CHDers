@@ -25,9 +25,6 @@ You can click the Preview link to take a look at your changes.
  <!-- 敲代码的图片 -->
 <div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif"/></div>
 
- 
-  
-
 
 #  🙋 Hello
 <h3 align="center">A struggling developer from China</h3>
