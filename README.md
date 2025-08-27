@@ -130,7 +130,9 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 # :fish: Star History
-[![Star History Chart](https://api.star-history.com/svg?repos=CHDers/CHDers&type=Date)](https://star-history.com/#CHDers/CHDers&Date)
+<!-- [![Star History Chart](https://api.star-history.com/svg?repos=CHDers/CHDers&type=Date)](https://star-history.com/#CHDers/CHDers&Date) -->
+
+[![Star History Chart](https://api.star-history.com/svg?repos=CHDers/CHDers,CHDers/Traffic-Flow-Prediction-with-Graph-Neural-Networks,CHDers/NSGA3&type=Timeline)](https://www.star-history.com/#CHDers/CHDers&CHDers/Traffic-Flow-Prediction-with-Graph-Neural-Networks&CHDers/NSGA3&Timeline)
 
 
 # :whale2: My Home
