@@ -301,83 +301,7 @@ mindmap
 
 </div>
 
-<!-- ==================== ADD: GitHub Overview Cards ==================== -->
 
-## 📈 GitHub Overview
-
-<p align="center">
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=CHDers&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&theme=github_dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=CHDers&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&theme=default"
-      media="(prefers-color-scheme: light)"
-    />
-    <img
-      height="180"
-      src="https://github-readme-stats.vercel.app/api?username=CHDers&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true"
-      alt="CHDers GitHub Statistics"
-    />
-  </picture>
-
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CHDers&layout=compact&langs_count=8&hide_border=true&theme=github_dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CHDers&layout=compact&langs_count=8&hide_border=true&theme=default"
-      media="(prefers-color-scheme: light)"
-    />
-    <img
-      height="180"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHDers&layout=compact&langs_count=8&hide_border=true"
-      alt="CHDers Top Languages"
-    />
-  </picture>
-</p>
-
-<!-- ==================== ADD: Featured Repo Cards ==================== -->
-
-## 🧩 Featured Research Repositories
-
-<p align="center">
-
-<a href="https://github.com/CHDers/Traffic-Flow-Prediction-with-Graph-Neural-Networks">
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=CHDers&repo=Traffic-Flow-Prediction-with-Graph-Neural-Networks&hide_border=true&description_lines_count=2"
-    alt="Traffic Flow Prediction with Graph Neural Networks"
-  />
-</a>
-
-<a href="https://github.com/CHDers/STGCN-PyTorch">
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=CHDers&repo=STGCN-PyTorch&hide_border=true&description_lines_count=2"
-    alt="STGCN PyTorch"
-  />
-</a>
-
-<a href="https://github.com/CHDers/Vehicle-Counting-Based-on-YOLO-and-OpenCV">
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=CHDers&repo=Vehicle-Counting-Based-on-YOLO-and-OpenCV&hide_border=true&description_lines_count=2"
-    alt="Vehicle Counting Based on YOLO and OpenCV"
-  />
-</a>
-
-<a href="https://github.com/CHDers/Drowsiness-Detection">
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api/pin/?username=CHDers&repo=Drowsiness-Detection&hide_border=true&description_lines_count=2"
-    alt="Drowsiness Detection"
-  />
-</a>
-
-</p>
 
 <!-- ==================== ADD: GitHub Activity Graph ==================== -->
 
@@ -401,4 +325,4 @@ mindmap
   </picture>
 </p>
 
-```
+
