@@ -24,7 +24,7 @@ Turning traffic data into models for **forecasting, perception and mobility inte
   <img src="https://img.shields.io/github/stars/CHDers?affiliations=OWNER&label=Total%20Stars&style=flat-square&logo=github" alt="GitHub Stars" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%2C+World!+%F0%9F%91%8B;Welcome+to+my+GitHub!;Keep+Coding%2C+Keep+Learning!&center=true&size=26&width=500">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%2C+World!+%F0%9F%91%8B;Welcome+to+my+GitHub!;Keep+Coding%2C+Keep+Learning!&center=true&size=26&width=600">
 </h1>
 </p>
 
