@@ -106,16 +106,18 @@ flowchart LR
 
 ## 🧰 Transportation AI Toolbox
 
+> Only technologies directly supported by the repositories highlighted above are listed here.
+
 | Layer | Technologies / Methods |
 |---|---|
-| **Core Language** | `Python` · `C/C++` |
-| **Deep Learning** | `PyTorch` · `TensorFlow` |
+| **Primary Language** | `Python` |
+| **Deep Learning** | `PyTorch` |
 | **Graph Learning** | `GCN` · `GAT` · `ChebNet` · `STGCN` |
-| **Time Series** | `Transformer` · `Informer` · sequence modeling |
-| **Computer Vision** | `YOLO` · `OpenCV` · `SORT` · `DeepSORT` · `dlib` |
-| **Data Science** | `NumPy` · `Pandas` · `scikit-learn` · `Matplotlib` |
-| **Traffic Data** | `PEMS-04` · `METR-LA` · taxi trajectories · traffic video |
-| **Engineering** | `Git` · `GitHub Actions` · `Linux` · `Docker` · `Jupyter` |
+| **Computer Vision** | `YOLO` · `OpenCV` · `dlib` |
+| **Tracking** | `SORT` · `DeepSORT` |
+| **Data Science** | `NumPy` · `Pandas` · `Matplotlib` |
+| **Traffic Data** | `PEMS-04` · `METR-LA` · taxi trajectories · traffic / driving video |
+| **Workflow** | `Git` · `GitHub Actions` |
 
 <details>
 <summary><b>🔬 Other ML / optimization explorations</b></summary>
@@ -135,16 +137,21 @@ Alongside transportation research, I also explore broader machine-learning and n
 ## 📊 GitHub Metrics
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-gitblock.svg" />
-    <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="95%" alt="CHDers 3D Contribution Graph" />
-  </picture>
+  <a href="https://github.com/CHDers">
+    <img
+      src="./github-metrics-chders.svg"
+      width="92%"
+      alt="CHDers GitHub Metrics"
+    />
+  </a>
 </p>
+
+> This SVG is generated for **CHDers only** by the workflow in this profile repository.  
+> Repository collection is restricted to repositories owned by `CHDers`.
 
 ---
 
-## 🐍 Contribution Snake
+## 🧊 My 3D Contribution
 
 <p align="center">
   <picture>
