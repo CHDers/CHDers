@@ -195,3 +195,210 @@ I'm always happy to exchange ideas around **traffic data mining, spatio-temporal
 
 
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ==================== ADD: Profile Badges ==================== -->
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=CHDers&label=Profile%20Views&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/CHDers?label=Followers&style=flat-square&logo=github" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/CHDers?affiliations=OWNER&label=Total%20Stars&style=flat-square&logo=github" alt="GitHub Stars" />
+</p>
+
+<!-- ==================== ADD: Research Landscape ==================== -->
+
+## 🧠 Research Landscape
+
+```mermaid
+mindmap
+  root((🚦 Transportation AI))
+    📊 Traffic Data Mining
+      PEMS Sensors
+      METR-LA
+      Taxi Trajectories
+      Traffic Video
+    🕸️ Spatio-Temporal Learning
+      GCN
+      GAT
+      ChebNet
+      STGCN
+      Transformer
+    🚥 Traffic Forecasting
+      Traffic Flow
+      Speed
+      Occupancy
+      Network Dynamics
+    👁️ Traffic Perception
+      Vehicle Detection
+      Multi-object Tracking
+      Vehicle Counting
+      Lane Perception
+    🚘 Intelligent Applications
+      Traffic Metrics
+      Vehicle Speed
+      Driver Safety
+      Mobility Intelligence
+```
+
+<!-- ==================== ADD: Visual Tech Stack ==================== -->
+
+## ⚙️ Visual Tech Stack
+
+<div align="center">
+
+### 🧠 Deep Learning & Graph Learning
+
+<img src="https://img.shields.io/badge/PyTorch-Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/GCN-Graph%20Learning-4C8BF5?style=for-the-badge" />
+<img src="https://img.shields.io/badge/GAT-Graph%20Attention-7B61FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/STGCN-Spatio--Temporal-00897B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Transformer-Time%20Series-FF6F00?style=for-the-badge" />
+
+<br/>
+
+### 👁️ Computer Vision
+
+<img src="https://img.shields.io/badge/YOLO-Object%20Detection-00FFFF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/DeepSORT-Tracking-2E7D32?style=for-the-badge" />
+<img src="https://img.shields.io/badge/dlib-Facial%20Landmarks-1565C0?style=for-the-badge" />
+
+<br/>
+
+### 📊 Data & Development
+
+<img src="https://img.shields.io/badge/Python-Data%20Science-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-Numerical-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-Data%20Mining-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
+</div>
+
+<!-- ==================== ADD: GitHub Overview Cards ==================== -->
+
+## 📈 GitHub Overview
+
+<p align="center">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=CHDers&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&theme=github_dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=CHDers&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&theme=default"
+      media="(prefers-color-scheme: light)"
+    />
+    <img
+      height="180"
+      src="https://github-readme-stats.vercel.app/api?username=CHDers&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true"
+      alt="CHDers GitHub Statistics"
+    />
+  </picture>
+
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CHDers&layout=compact&langs_count=8&hide_border=true&theme=github_dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CHDers&layout=compact&langs_count=8&hide_border=true&theme=default"
+      media="(prefers-color-scheme: light)"
+    />
+    <img
+      height="180"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHDers&layout=compact&langs_count=8&hide_border=true"
+      alt="CHDers Top Languages"
+    />
+  </picture>
+</p>
+
+<!-- ==================== ADD: Featured Repo Cards ==================== -->
+
+## 🧩 Featured Research Repositories
+
+<p align="center">
+
+<a href="https://github.com/CHDers/Traffic-Flow-Prediction-with-Graph-Neural-Networks">
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=CHDers&repo=Traffic-Flow-Prediction-with-Graph-Neural-Networks&hide_border=true&description_lines_count=2"
+    alt="Traffic Flow Prediction with Graph Neural Networks"
+  />
+</a>
+
+<a href="https://github.com/CHDers/STGCN-PyTorch">
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=CHDers&repo=STGCN-PyTorch&hide_border=true&description_lines_count=2"
+    alt="STGCN PyTorch"
+  />
+</a>
+
+<a href="https://github.com/CHDers/Vehicle-Counting-Based-on-YOLO-and-OpenCV">
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=CHDers&repo=Vehicle-Counting-Based-on-YOLO-and-OpenCV&hide_border=true&description_lines_count=2"
+    alt="Vehicle Counting Based on YOLO and OpenCV"
+  />
+</a>
+
+<a href="https://github.com/CHDers/Drowsiness-Detection">
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=CHDers&repo=Drowsiness-Detection&hide_border=true&description_lines_count=2"
+    alt="Drowsiness Detection"
+  />
+</a>
+
+</p>
+
+<!-- ==================== ADD: GitHub Activity Graph ==================== -->
+
+## 🔥 Contribution Activity
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=CHDers&theme=github-dark&hide_border=true&area=true"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=CHDers&theme=github-light&hide_border=true&area=true"
+    />
+    <img
+      width="100%"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=CHDers&theme=github-light&hide_border=true&area=true"
+      alt="CHDers GitHub Contribution Activity Graph"
+    />
+  </picture>
+</p>
+
+```
