@@ -16,9 +16,18 @@ Turning traffic data into models for **forecasting, perception and mobility inte
 
 </div>
 
+<!-- ==================== ADD: Profile Badges ==================== -->
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=CHDers&label=Profile%20Views&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/CHDers?label=Followers&style=flat-square&logo=github" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/CHDers?affiliations=OWNER&label=Total%20Stars&style=flat-square&logo=github" alt="GitHub Stars" />
+</p>
+
 ---
 
 ## 👋 About Me
+
 
 Hi, I'm **YanJun (CHDers)**. My main interest is **data-driven intelligent transportation**.
 
@@ -53,9 +62,40 @@ class CHDers:
 
     goal = "Understand traffic with data, graphs and deep learning."
 ```
-
-
 ---
+<!-- ==================== ADD: Visual Tech Stack ==================== -->
+
+## ⚙️ Visual Tech Stack
+
+<div align="center">
+
+### 🧠 Deep Learning & Graph Learning
+
+<img src="https://img.shields.io/badge/PyTorch-Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/GCN-Graph%20Learning-4C8BF5?style=for-the-badge" />
+<img src="https://img.shields.io/badge/GAT-Graph%20Attention-7B61FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/STGCN-Spatio--Temporal-00897B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Transformer-Time%20Series-FF6F00?style=for-the-badge" />
+
+<br/>
+
+### 👁️ Computer Vision
+
+<img src="https://img.shields.io/badge/YOLO-Object%20Detection-00FFFF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/DeepSORT-Tracking-2E7D32?style=for-the-badge" />
+<img src="https://img.shields.io/badge/dlib-Facial%20Landmarks-1565C0?style=for-the-badge" />
+
+<br/>
+
+### 📊 Data & Development
+
+<img src="https://img.shields.io/badge/Python-Data%20Science-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-Numerical-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-Data%20Mining-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
+</div>
 
 ## 🧭 Research Focus
 
@@ -105,6 +145,45 @@ flowchart LR
 | **[Drowsiness Detection](https://github.com/CHDers/Drowsiness-Detection)** | 🧑‍✈️ Driver safety | Driver drowsiness / yawning detection using facial landmarks and **EAR / MAR** features |
 
 ---
+
+
+
+<!-- ==================== ADD: Research Landscape ==================== -->
+
+## 🧠 Research Landscape
+
+```mermaid
+mindmap
+  root((🚦 Transportation AI))
+    📊 Traffic Data Mining
+      PEMS Sensors
+      METR-LA
+      Taxi Trajectories
+      Traffic Video
+    🕸️ Spatio-Temporal Learning
+      GCN
+      GAT
+      ChebNet
+      STGCN
+      Transformer
+    🚥 Traffic Forecasting
+      Traffic Flow
+      Speed
+      Occupancy
+      Network Dynamics
+    👁️ Traffic Perception
+      Vehicle Detection
+      Multi-object Tracking
+      Vehicle Counting
+      Lane Perception
+    🚘 Intelligent Applications
+      Traffic Metrics
+      Vehicle Speed
+      Driver Safety
+      Mobility Intelligence
+```
+
+
 
 ## 🧰 Transportation AI Toolbox
 
@@ -175,131 +254,7 @@ Alongside transportation research, I also explore broader machine-learning and n
   </picture>
 </p>
 
----
 
-## 📬 Connect
-
-<div align="center">
-
-**Interested in Transportation AI, traffic forecasting, GNNs or traffic computer vision?**
-
-I'm always happy to exchange ideas around **traffic data mining, spatio-temporal modeling and intelligent transportation**.
-
-📮 **chder1996@gmail.com**  
-🎬 **[Bilibili](https://space.bilibili.com/375719714)**  
-💻 **[github.com/CHDers](https://github.com/CHDers)**
-
-<br/>
-
-<sub>🚦 Data → Graph → Model → Mobility Intelligence</sub>
-
-
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- ==================== ADD: Profile Badges ==================== -->
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CHDers&label=Profile%20Views&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/CHDers?label=Followers&style=flat-square&logo=github" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/CHDers?affiliations=OWNER&label=Total%20Stars&style=flat-square&logo=github" alt="GitHub Stars" />
-</p>
-
-<!-- ==================== ADD: Research Landscape ==================== -->
-
-## 🧠 Research Landscape
-
-```mermaid
-mindmap
-  root((🚦 Transportation AI))
-    📊 Traffic Data Mining
-      PEMS Sensors
-      METR-LA
-      Taxi Trajectories
-      Traffic Video
-    🕸️ Spatio-Temporal Learning
-      GCN
-      GAT
-      ChebNet
-      STGCN
-      Transformer
-    🚥 Traffic Forecasting
-      Traffic Flow
-      Speed
-      Occupancy
-      Network Dynamics
-    👁️ Traffic Perception
-      Vehicle Detection
-      Multi-object Tracking
-      Vehicle Counting
-      Lane Perception
-    🚘 Intelligent Applications
-      Traffic Metrics
-      Vehicle Speed
-      Driver Safety
-      Mobility Intelligence
-```
-
-<!-- ==================== ADD: Visual Tech Stack ==================== -->
-
-## ⚙️ Visual Tech Stack
-
-<div align="center">
-
-### 🧠 Deep Learning & Graph Learning
-
-<img src="https://img.shields.io/badge/PyTorch-Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/GCN-Graph%20Learning-4C8BF5?style=for-the-badge" />
-<img src="https://img.shields.io/badge/GAT-Graph%20Attention-7B61FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/STGCN-Spatio--Temporal-00897B?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Transformer-Time%20Series-FF6F00?style=for-the-badge" />
-
-<br/>
-
-### 👁️ Computer Vision
-
-<img src="https://img.shields.io/badge/YOLO-Object%20Detection-00FFFF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/DeepSORT-Tracking-2E7D32?style=for-the-badge" />
-<img src="https://img.shields.io/badge/dlib-Facial%20Landmarks-1565C0?style=for-the-badge" />
-
-<br/>
-
-### 📊 Data & Development
-
-<img src="https://img.shields.io/badge/Python-Data%20Science-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-Numerical-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-Data%20Mining-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white" />
-
-</div>
 
 
 
@@ -324,5 +279,24 @@ mindmap
     />
   </picture>
 </p>
+---
 
+## 📬 Connect
+
+<div align="center">
+
+**Interested in Transportation AI, traffic forecasting, GNNs or traffic computer vision?**
+
+I'm always happy to exchange ideas around **traffic data mining, spatio-temporal modeling and intelligent transportation**.
+
+📮 **chder1996@gmail.com**  
+🎬 **[Bilibili](https://space.bilibili.com/375719714)**  
+💻 **[github.com/CHDers](https://github.com/CHDers)**
+
+<br/>
+
+<sub>🚦 Data → Graph → Model → Mobility Intelligence</sub>
+
+
+</div>
 
