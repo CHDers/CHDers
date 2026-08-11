@@ -1,24 +1,35 @@
-name: GitHub-Profile-3D-Contrib
+name: CHDers 3D Contribution
 
 on:
-  schedule: # 03:00 JST == 18:00 UTC
+  schedule:
     - cron: "0 18 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: generate-github-profile-3d-contrib
+
     steps:
-      - uses: actions/checkout@v2
-      - uses: yoshi389111/github-profile-3d-contrib@0.6.0
+      - name: Checkout
+        uses: actions/checkout@v5
+
+      - name: Generate 3D contribution graph for CHDers
+        uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
-      - name: Commit & Push
+          USERNAME: CHDers
+
+      - name: Commit generated CHDers contribution files
         run: |
-          git config user.name BEPb
-          git config user.email andrej.marinchenko@gmail.com
-          git add -A .
-          git commit -m "generated"
-          git push
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile-3d-contrib/
+          if git diff --cached --quiet; then
+            echo "No 3D contribution changes."
+          else
+            git commit -m "chore: update CHDers 3D contribution graph"
+            git push
+          fi
