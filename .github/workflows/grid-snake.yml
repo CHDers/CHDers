@@ -1,8 +1,7 @@
-name: Generate Contribution Snake
+name: CHDers Contribution Snake
 
 on:
   schedule:
-    # Once per day is enough for a profile README.
     - cron: "20 0 * * *"
   workflow_dispatch:
   push:
@@ -19,15 +18,17 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: Generate light and dark snake SVGs
+      - name: Generate CHDers contribution snake
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: CHDers
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-chders.svg
+            dist/github-contribution-grid-snake-chders-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Publish SVGs to output branch
+      - name: Publish CHDers snake SVGs to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
