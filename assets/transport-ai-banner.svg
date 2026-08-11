@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="CHDers Transportation AI">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07111f"/>
+      <stop offset="0.52" stop-color="#0c1f35"/>
+      <stop offset="1" stop-color="#102f45"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#58a6ff"/>
+      <stop offset="1" stop-color="#39d0d8"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="340" rx="24" fill="url(#bg)"/>
+
+  <!-- subtle grid -->
+  <g opacity="0.13" stroke="#8bb9d9" stroke-width="1">
+    <path d="M0 55H1200M0 110H1200M0 165H1200M0 220H1200M0 275H1200"/>
+    <path d="M80 0V340M160 0V340M240 0V340M320 0V340M400 0V340M480 0V340M560 0V340M640 0V340M720 0V340M800 0V340M880 0V340M960 0V340M1040 0V340M1120 0V340"/>
+  </g>
+
+  <!-- road / lane motif -->
+  <path d="M650 355 C735 250 760 185 805 95 C838 30 895 -15 965 -35"
+        fill="none" stroke="#213e53" stroke-width="92" opacity="0.9"/>
+  <path d="M650 355 C735 250 760 185 805 95 C838 30 895 -15 965 -35"
+        fill="none" stroke="#a4d4e8" stroke-width="3" stroke-dasharray="20 18" opacity="0.65"/>
+  <path d="M702 355 C775 250 790 184 831 104 C865 38 915 -5 985 -34"
+        fill="none" stroke="#39d0d8" stroke-width="2" opacity="0.45"/>
+
+  <!-- graph network -->
+  <g stroke="#58a6ff" stroke-width="2" opacity="0.7">
+    <path d="M858 88L972 62L1084 103L1020 176L1114 228L1012 273L902 232L930 151Z"/>
+    <path d="M972 62L1020 176L902 232M1084 103L930 151L1114 228M858 88L1020 176L1012 273"/>
+  </g>
+  <g fill="#73e2e7" filter="url(#glow)">
+    <circle cx="858" cy="88" r="6"/><circle cx="972" cy="62" r="6"/>
+    <circle cx="1084" cy="103" r="6"/><circle cx="1020" cy="176" r="7"/>
+    <circle cx="1114" cy="228" r="6"/><circle cx="1012" cy="273" r="6"/>
+    <circle cx="902" cy="232" r="6"/><circle cx="930" cy="151" r="6"/>
+  </g>
+
+  <!-- small traffic signal -->
+  <g transform="translate(1090 38)">
+    <rect x="0" y="0" width="28" height="68" rx="8" fill="#06101a" stroke="#54748a"/>
+    <circle cx="14" cy="15" r="6" fill="#ff6b6b"/>
+    <circle cx="14" cy="34" r="6" fill="#ffd166"/>
+    <circle cx="14" cy="53" r="6" fill="#4dd59b"/>
+  </g>
+
+  <!-- labels -->
+  <rect x="70" y="58" width="198" height="32" rx="16" fill="#123b52" stroke="#2a6682"/>
+  <text x="169" y="80" text-anchor="middle" fill="#7ee5e8" font-size="15" font-family="Segoe UI,Arial,sans-serif" font-weight="700" letter-spacing="2">
+    TRANSPORTATION AI
+  </text>
+
+  <text x="70" y="150" fill="#f2f7fb" font-size="58" font-family="Segoe UI,Arial,sans-serif" font-weight="750">
+    CHDers
+  </text>
+  <text x="70" y="190" fill="#9fc3d8" font-size="24" font-family="Segoe UI,Arial,sans-serif">
+    YanJun · Data Mining &amp; Deep Learning for Transportation
+  </text>
+
+  <rect x="70" y="224" width="520" height="4" rx="2" fill="url(#accent)"/>
+
+  <text x="70" y="270" fill="#c9dbe7" font-size="19" font-family="Segoe UI,Arial,sans-serif">
+    Traffic Forecasting  ·  Spatio-Temporal GNN  ·  Traffic Perception
+  </text>
+  <text x="70" y="302" fill="#7196ad" font-size="16" font-family="Segoe UI,Arial,sans-serif">
+    Sensors / Trajectories / Video  →  Representation  →  Prediction &amp; Perception
+  </text>
+</svg>
