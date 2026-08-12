@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/transport-ai-banner1.svg" width="100%" alt="CHDers · Transportation AI" />
+  <img src="./assets/transport-ai-banner.svg" width="100%" alt="CHDers · Transportation AI" />
 </p>
 
 <div align="center">
